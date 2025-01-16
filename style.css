@@ -18,3 +18,12 @@ body {
   width: 100%;
   left: 0;
 }
+
+#sticky-header {
+  margin-top: auto;
+  padding: 50px 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
